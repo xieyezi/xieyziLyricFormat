@@ -55,8 +55,6 @@ export default class Lyric {
       let result = timeExp.exec(line)
       if (result) {
         const txt = line.replace(timeExp, '').trim();
-        console.log(txt);
-
         if (txt) {
           if (result[3].length === 3) {
             result[3] = result[3]/10;
