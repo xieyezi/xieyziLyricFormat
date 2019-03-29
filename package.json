@@ -1,6 +1,6 @@
 {
   "name": "xieyezi-lyric",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a package for parsing lyric data",
   "main": "dist/xieyezi-lyric.js",
   "module": "dist/xieyezi-lyric.esm.js",
